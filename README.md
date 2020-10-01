@@ -22,6 +22,10 @@ Governments should be highly interested in accurate predictions of the severity 
 use of the resources, and thus save a significant amount of people each year. Others interested could be private companies investing in technologies aiming
 to improve road safeness.
 
+# Data
+
+The data can be found in the following Kaggle data set.link: https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016 
+
 ## Data Understanding
 
 Our predictor or target variable will be 'SEVERITYCODE' because it is used to measure the severity of an accident from 0 to 4 within the dataset. Attributes used to weigh the severity of an accident are 'WEATHER', 'ROADCOND' and 'LIGHTCOND'.
