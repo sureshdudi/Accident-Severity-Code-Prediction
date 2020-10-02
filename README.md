@@ -16,7 +16,7 @@ conditions, weather conditions, exact time and place of the accident, type of ve
 and off course the severity of the accident. This projects aims to forecast the severity of accidents with previous information that could be given by a witness
 informing the emergency services.
 
-# Interst
+# Interest
 
 Governments should be highly interested in accurate predictions of the severity of an accident, in order to reduce the time of arrival and to make a more efficient
 use of the resources, and thus save a significant amount of people each year. Others interested could be private companies investing in technologies aiming
