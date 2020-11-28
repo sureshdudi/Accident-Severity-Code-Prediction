@@ -1,4 +1,5 @@
-# IBM-datascience-capstone
+# CAR ACCIDENT SEVERITY REPORT
+
 it is used for IBM datascience capstone project
 
 # Introduction | Business Understanding
